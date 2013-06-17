@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[¹ö¶¯¹«¸æ]]></item>
+	<item id="Data">
+		<item id="zend">
+			<item id="method"><![CDATA[zendenc53]]></item>
+			<item id="expires"><![CDATA[0]]></item>
+			<item id="files"><![CDATA[
+				daxiong_roll_announcement.class.php
+				update.inc.php
+			]]></item>
+		</item>
+	</item>
+</root>
